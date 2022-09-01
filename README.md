@@ -1,8 +1,8 @@
 # Images
 
-Galaxy Image Storage | Storage the photos of Galaxy City, Neko3327's Blog, and more.
+The photo sources of SliverRiver Network.
 
-已使用 Vercel 进行构建。链接示例：
+已使用 Cloudflare Pages 进行构建。链接示例：
 
 <https://img.restent.win/me/profile/avatar.jpg>
 
